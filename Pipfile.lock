@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "883330a7f4a3ca7e81b474b73f6ef890822fd0cea43a5e1a13074f637ff4e012"
+            "sha256": "8203a48622448e7050444d303c7d69d9d9d47d47936b829cda39645b97374bc7"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -265,6 +265,15 @@
             ],
             "markers": "python_version >= '3.5'",
             "version": "==3.4"
+        },
+        "insomnia": {
+            "hashes": [
+                "sha256:3d16051c0bd1adb26c595aaf19b7aa00418bd3aeab3f997cde5679680863007f",
+                "sha256:70af558d0231624c32e531319e1046f14f4b633855c2cffb65a8c6d15c1d35da",
+                "sha256:802d9e76c77d9d0a1e4b4eebe9f8b9d92dae5fd72aa52048c7dfadd244ed9fdc"
+            ],
+            "index": "pypi",
+            "version": "==0.0.0"
         },
         "mysqlclient": {
             "hashes": [
